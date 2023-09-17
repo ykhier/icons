@@ -1,0 +1,17 @@
+.icon-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 200px; /* Adjust the container width as needed */
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.icon-link {
+    text-decoration: none;
+    color: #333; /* Icon color */
+    font-size: 35px; /* Icon size */
+    margin: 0 10px; /* Adjust spacing between icons */
+}
